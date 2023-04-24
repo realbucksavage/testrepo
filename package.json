@@ -1,0 +1,20 @@
+{
+  "name": "testrepo",
+  "version": "1.0.0",
+  "description": "Repository to demonstrate basic git usage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realbucksavage/testrepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realbucksavage/testrepo/issues"
+  },
+  "homepage": "https://github.com/realbucksavage/testrepo#readme"
+}
